@@ -1,0 +1,36 @@
+.bg {
+    background-color: #6e44ff;
+}
+
+h1 {
+    color: white;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+li {
+    color: white;
+}
+
+li:hover {
+    color: orange;
+}
+
+a {
+    margin-right: 35px;
+    padding-right: 40px;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.logo {
+    width: 50px;
+    height: 55px;
+    margin-left: 5%;
+}
